@@ -1,0 +1,4 @@
+body { font-family: Arial; margin: 20px; }
+.error { color: red; }
+table { border-collapse: collapse; }
+th, td { padding: 8px; border: 1px solid #ccc; }
